@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pokedex Android</string>
+    <string name="image_header_description">Imagem Pokemon</string>
 </resources>
